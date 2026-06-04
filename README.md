@@ -14,8 +14,6 @@ The application allows users to create, list, delete, and execute alarms from th
 - Persistent storage using JSON
 - Enable/disable alarms
 - Alarm scheduler that continuously monitors alarms
-- Daily and hourly repeating alarms
-- Terminal notification and bell sound icon when an alarm triggers
 
 ---
 
